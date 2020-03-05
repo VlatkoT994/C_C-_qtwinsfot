@@ -1,0 +1,4 @@
+﻿  nizi.c
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\nizi\nizi\nizi.c(59,6): warning C4101: 'temp': unreferenced local variable
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\nizi\nizi\nizi.c(38): warning C4716: 'mappirajProsti': must return a value
+  nizi.vcxproj -> C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\nizi\Debug\nizi.exe

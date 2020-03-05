@@ -1,0 +1,9 @@
+﻿  vezbi2_control_flow_1.c
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(79,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(79,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(79,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(79,11): message : this argument is used as a buffer size
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(94,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(97,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\hello from C\vezbi2_control_flow_1.c(100,22): warning C4305: '+=': truncation from 'double' to 'float'
+  hello from C.vcxproj -> C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\vezbi2_control_flow_1\Debug\hello from C.exe
