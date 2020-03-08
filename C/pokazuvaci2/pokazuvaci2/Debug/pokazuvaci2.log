@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\pokazuvaci2\pokazuvaci2\Source.c(17,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pokazuvaci2.vcxproj -> C:\Users\vlatc\OneDrive\Desktop\Vlatko\obuka\C\pokazuvaci2\Debug\pokazuvaci2.exe
