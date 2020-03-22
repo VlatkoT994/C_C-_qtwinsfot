@@ -1,0 +1,2 @@
+testiranjeto na datotekite za zborovi podolgi od deset znaci
+testiranjeto da se izvrsi i na vtor red
